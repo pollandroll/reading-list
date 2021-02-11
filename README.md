@@ -27,6 +27,6 @@
 [How many Heroku dynos do you need, and which size — an opinionated guide](https://railsautoscale.com/how-many-dynos/): great article explaining all you need to know about Heroku dyno and concurrency configuration
 
 ## Form Object
-[http://railscasts.com/episodes/416-form-objects?view=asciicast](http://railscasts.com/episodes/416-form-objects?view=asciicast): in this episode you will learn a couple of techniques to extract form-behavior out into its own class.
+[Form Objects - Rails Casts](http://railscasts.com/episodes/416-form-objects?view=asciicast): in this episode you will learn a couple of techniques to extract form-behavior out into its own class.
 
-[https://medium.com/@jaryl/disciplined-rails-form-object-techniques-patterns-part-1-23cfffcaf429](https://medium.com/@jaryl/disciplined-rails-form-object-techniques-patterns-part-1-23cfffcaf429): explanation of the form object pattern with examples
+[Form Object Techniques & Patterns](https://medium.com/@jaryl/disciplined-rails-form-object-techniques-patterns-part-1-23cfffcaf429): explanation of the form object pattern with examples
