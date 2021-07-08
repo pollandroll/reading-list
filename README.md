@@ -28,6 +28,8 @@
 ## Devops
 [How many Heroku dynos do you need, and which size — an opinionated guide](https://railsautoscale.com/how-many-dynos/): great article explaining all you need to know about Heroku dyno and concurrency configuration
 
+[Heroku Database Connection Calculator](https://railsautoscale.com/heroku-postgresql-connection-calculator/): a tool to calculate how many db connections are necessary on Heroku (and avoid `PG::ConnectionBad` errors
+
 ## Design patterns
 [Rails design patterns - The big picture](https://longliveruby.com/articles/rails-design-patterns-the-big-picture) : simple explanations of the most common design patterns
 
