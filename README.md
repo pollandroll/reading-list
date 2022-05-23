@@ -37,5 +37,8 @@
 
 [Form Object Techniques & Patterns](https://medium.com/@jaryl/disciplined-rails-form-object-techniques-patterns-part-1-23cfffcaf429): explanation of the form object pattern with examples
 
+## Data
+[Pipelining without pipes](https://thoughtbot.com/blog/pipelining-without-pipes-in-ruby): building a basic data pipeline in ruby using functional programming
+
 ## Project management
 [Building large features: my process for branches, requests and reviews](https://remimercier.com/building-large-features-process/): some interesting ideas on how to organize the developement of large features
