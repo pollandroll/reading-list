@@ -42,3 +42,6 @@
 
 ## Project management
 [Building large features: my process for branches, requests and reviews](https://remimercier.com/building-large-features-process/): some interesting ideas on how to organize the developement of large features
+
+## Emailing
+[Your Guide to Bulletproof Email Buttons that Work](https://www.litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design/): different techniques to build buttons that also work in MS Outlook
