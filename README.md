@@ -3,6 +3,8 @@
 ## Clean code
 [Clean your Rails routes: grouping](https://medium.com/rubycademy/how-to-keep-your-routes-clean-in-ruby-on-rails-f7cf348ec13b): a simple solution when routes start to get messy
 
+[Ruby modules: Extend vs Include vs Prepend](https://gist.github.com/max-las/288df80f6c14bec7b96a6b2df566ae51): different ways to include modules
+
 ## Performance
 [Wrangling slow reports, large file exports, and long-running tasks in Rails with Active Job](https://boringrails.com/articles/large-exports-and-slow-reports-with-activejob/): writing good background jobs
 
